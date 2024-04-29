@@ -1,0 +1,53 @@
+#wrap { width: 100%; min-width: 1600px; }
+#header, #visual, #container, #content, #footer { width: 100%; }
+.inner {   }
+
+#header {}
+#header .inner {  }
+#header h1 { }
+
+#header .nav { }
+#header .nav .gnb {   }
+#header .nav .gnb li  {   }
+#header .nav .gnb li:last-child  {   }
+#header .nav .gnb li a {   }
+
+#header .utility {   }
+#header .top-menu {   }
+#header .top-menu li {   }
+#header .top-menu li:last-child {   }
+#header .top-menu li a {  }
+#header p {  }
+#header p i {   }
+
+#visual { }
+#visual .main-banner{ }
+#visual .main-banner li {}
+#visual .main-banner li strong { }
+#visual .main-banner li h2 { }
+#visual .main-banner li p {  }
+
+#visual .main-banner li:nth-child(1) {  }  
+
+#visual .paging {  }
+#visual .paging li  {  }
+#visual .paging li:last-child {  }
+#visual .paging li strong {  }
+#visual .paging li em {  }
+#visual .paging li.on strong { }
+#visual .paging li.on em { }
+ 
+
+
+.main {}
+.main .con-box {   }
+.main .con-box .inner {   }
+
+.main .con1 { }
+.main .con1 .line {   }
+.main .con1 .line span { }
+.main .con1 .line span::after {   }
+
+.main .con1 h2 { }
+.main .con1 h2 + p { }
+ 
